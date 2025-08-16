@@ -1,0 +1,3 @@
+Function of "FOUNDATION SETUP AND DATA UNDERSTANDING.ipynb": Implementing exploratory data analysis the datasets
+Function of "BASELINE_SCENARIO_ANALYSIS_(CURRENT_COST_STRUCTURE)": Calculating the distribution cost of the current centralized model.
+Function of "NEW_NETWORK_SCENARIOS_COST_EVALUATION_FINAL_1": Recommending the new distribution network (How many sub DC, total transportation cost, total inventory cost,...)
